@@ -1,7 +1,7 @@
 ![How-to-Become-a-Web-Developer](https://user-images.githubusercontent.com/78247158/164883022-4289aec2-c0b7-4a3b-92cc-85734ea7fb62.jpg)
 
 <h1 align="center">Hi 👋, I'm Saurabh Aniket</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A  frontend developer</h3>
 
 <p align ="right" alt = "Coding" width ="400" src ="C:\Users\KIIT\Desktop\1.jpg">
 
