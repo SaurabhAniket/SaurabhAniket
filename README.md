@@ -1,17 +1,11 @@
-### Hi there 👋
-![4](https://user-images.githubusercontent.com/78247158/164881562-4dac4260-d18b-42d2-afd1-4952edd976ae.jpg)
-
-<!--
-**SaurabhAniket/SaurabhAniket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![How-to-Become-a-Web-Developer](https://user-images.githubusercontent.com/78247158/164883022-4289aec2-c0b7-4a3b-92cc-85734ea7fb62.jpg)
 
 <h1 align="center">Hi 👋, I'm Saurabh Aniket</h1>
-<h3 align="center">A passionate frontend developer</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhaniket&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhaniket" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhaniket" alt="saurabhaniket" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/100rab_vats" target="blank"><img src="https://img.shields.io/twitter/follow/100rab_vats?logo=twitter&style=for-the-badge" alt="100rab_vats" /></a> </p>
 
 - 🌱 I’m currently learning **React Js ,**
 
@@ -34,5 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhaniket&show_icons=true&locale=en" alt="saurabhaniket" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhaniket&" alt="saurabhaniket" /></p>
+
 
 
