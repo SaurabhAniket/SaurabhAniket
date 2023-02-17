@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhaniket&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhaniket" /> </p>
 
-- 🌱 I’m currently learning **React Js ,**
+- 🌱 I’m currently learning **React Js , Machine Learning**
 
 - 📫 How to reach me **saurabhaniket2903@gmail.com**
 
